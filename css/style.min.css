@@ -544,6 +544,7 @@ footer {
 .footer {
   padding: 100px 0 20px;
   text-align: center;
+  color: transparent;
 }
 
 @media (max-width: 992px) {
